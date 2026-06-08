@@ -5,10 +5,13 @@ Tout est prêt à coller. Identique pour CurseForge et Modrinth sauf mention.
 ---
 
 ## Nom du projet
-**EMI Enchant Info**
+**Enchant Details for EMI**
 
 ## Slug (URL)
-`emi-enchant-info`
+`enchant-details-for-emi`
+
+## Source (GPL)
+https://github.com/Blushister/enchant-details-for-emi
 
 ## Résumé / Summary (CurseForge, ~une ligne)
 > View detailed enchantment information directly in EMI — levels, costs, applicable items, conflicts and more. NeoForge 1.21.1.

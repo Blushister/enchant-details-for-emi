@@ -1,4 +1,4 @@
-# EMI Enchants — NeoForge 1.21.1
+# Enchant Details for EMI — NeoForge 1.21.1
 
 Addon EMI affichant les informations détaillées de chaque enchantement (niveaux,
 items applicables, enchantements incompatibles, poids, coûts, table d'enchantement /

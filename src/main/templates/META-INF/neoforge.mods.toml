@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-issueTrackerURL="https://github.com/Mephodio/EmiEnchants/issues"
+issueTrackerURL="https://github.com/Blushister/enchant-details-for-emi/issues"
 
 [[mods]]
 modId="${mod_id}"
