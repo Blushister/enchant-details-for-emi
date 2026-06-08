@@ -42,3 +42,7 @@ repo/
 ### Projet ###
 build-log.txt
 /run/
+
+### Publication (local uniquement, non tracke) ###
+/PUBLISH.md
+/store/
