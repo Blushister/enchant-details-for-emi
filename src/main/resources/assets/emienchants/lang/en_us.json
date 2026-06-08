@@ -1,0 +1,24 @@
+{
+  "emi.category.emienchants.enchants": "Enchantment",
+
+  "emienchants.property.weight": "Weight: %s",
+  "emienchants.property.cost": "Level %s cost: %s - %s",
+  "emienchants.property.conflicts": "Conflicts:",
+  "emienchants.property.applicable_to": "Applicable to:",
+
+  "emienchants.property.value.true": "YES",
+  "emienchants.property.value.false": "NO",
+
+  "emienchants.property.ench_table.true": "Can be obtained from enchanting table",
+  "emienchants.property.ench_table.false": "Can't be obtained from enchanting table",
+  "emienchants.property.tradeable.true": "Can be bought from villagers",
+  "emienchants.property.tradeable.false": "Can't be bought from villagers",
+  "emienchants.property.discoverable.true": "Discoverable (applies to loot)",
+  "emienchants.property.discoverable.false": "Not discoverable (doesn't apply to most loot)",
+  "emienchants.property.treasure.true": "Treasure enchantment",
+  "emienchants.property.treasure.false": "Not a treasure enchantment",
+  "emienchants.property.curse.true": "Curse",
+  "emienchants.property.curse.false": "Not a curse",
+
+  "emienchants.slot.subtitle.view_all": "click to view all"
+}
